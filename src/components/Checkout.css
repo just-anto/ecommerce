@@ -1,0 +1,37 @@
+.checkout-container {
+  margin: 20px;
+}
+
+.product-info {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.product-info h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.total-price {
+  margin-bottom: 20px;
+}
+
+.confirm-buy-button {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.confirm-buy-button:hover {
+  background-color: #2980b9;
+}
+
+.thanks-message {
+  color: #27ae60;
+  margin-top: 15px;
+}

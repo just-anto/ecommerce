@@ -1,0 +1,38 @@
+.home-container {
+  margin: 20px;
+}
+
+.product-list {
+  list-style: none;
+  padding: 0;
+}
+
+.product-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.product-name {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.product-price {
+  color: #4caf50;
+}
+
+.product-sku {
+  color: #777;
+}
+
+.product-description {
+  margin-bottom: 10px;
+}
+
+.details-link {
+  color: #3498db;
+  text-decoration: none;
+  display: block;
+}

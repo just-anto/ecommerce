@@ -1,0 +1,39 @@
+.product-detail-container {
+  margin: 20px;
+}
+
+.product-name {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.product-description {
+  margin-bottom: 15px;
+}
+
+.product-price {
+  color: #4caf50;
+}
+
+.product-sku {
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.buy-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.buy-button:hover {
+  background-color: #45a049;
+}
+
+.thanks-message {
+  color: #3498db;
+  margin-top: 15px;
+}
